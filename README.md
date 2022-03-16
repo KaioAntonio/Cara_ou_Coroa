@@ -1,6 +1,40 @@
-# cara_ou_coroa
 
-Projetin
+
+<h1 align="center">Cara ou Coroa</h1>
+
+<h1 align="center">
+    <a href="https://flutter.dev">👨‍💻 Flutter</a>
+</h1>
+<p align="center">🚀 Projeto feito em Flutter para testar os conhecimentos em navegação de telas</p>
+
+<h4 align="center"> 
+	✔️ Projeto Concluído ✔️
+</h4>
+
+### 📱 Demonstração
+---
+![2022-03-15 22-22-45](https://user-images.githubusercontent.com/75454785/158498869-ef936d5a-c365-4def-997b-7beddd35253b.gif)
+
+
+
+## :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Tela de Jogar
+- `Funcionalidade 2`: Mostrar Aleatoriamente cara ou coroa
+
+
+
+### 🛠 Tecnologias
+---
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Flutter]
+
+### Autor
+---
+
+Feito com ❤️ por Kaio Antônio 👋🏻 Entre em contato!
 
 ## Getting Started
 
